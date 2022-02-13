@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Hideki Yamane <henrich@debian.org>
 Build-Depends:
  debhelper-compat (= 13),
- dh-sequence-dkms,
+ dkms,
 Rules-Requires-Root: no
 Standards-Version: 4.6.0
 Homepage: https://www.realtek.com/en/component/zoo/category/network-interface-controllers-10-100-1000m-gigabit-ethernet-pci-express-software
