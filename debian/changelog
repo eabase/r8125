@@ -1,6 +1,8 @@
 r8125 (9.007.01-2~bpo11+1) bullseye-backports; urgency=medium
 
   * Rebuild for bullseye-backports.
+  * debian/control
+    - Specify dkms instead of dh-sequence-dkms
 
  -- Hideki Yamane <henrich@debian.org>  Sun, 13 Feb 2022 13:00:02 +0900
 
