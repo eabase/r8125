@@ -5,6 +5,7 @@ r8125 (9.013.02-1) UNRELEASED; urgency=medium
   * Backport support for Linux 6.9 from r8168.
   * Set BUILD_EXCLUSIVE_CONFIG="CONFIG_PCI".
   * Bump Standards-Version to 4.7.0, no changes needed.
+  * Synchronize with r8168.
 
  -- Andreas Beckmann <anbe@debian.org>  Sun, 30 Jun 2024 04:10:11 +0200
 

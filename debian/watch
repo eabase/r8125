@@ -2,10 +2,10 @@ version=4
 
 # The upstream download page at
 # https://www.realtek.com/Download/List?cate_id=584
-# does not offer direct download links but rather redirects via hashes
-# and mandatory email registration to a temporary download location.
-# Therefore we can only parse the version number from the upstream
-# download page.
+# does not offer direct download links but rather redirects after
+# a captcha to a temporary download location.
+# Therefore we can only parse the file name and version from the
+# upstream download page.
 
 opts=searchmode=plain \
 https://www.realtek.com/Download/ListAllDownloadItem?cate_id=584 \
