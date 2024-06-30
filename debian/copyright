@@ -1,6 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: r8125
-Source: https://www.realtek.com/en/directly-download?downloadid=5c4aa38a64fd38d44410984554b2fea1
+Source: https://www.realtek.com/Download/List?cate_id=584
 Disclaimer:
  This package is not part of the GNU/Linux Debian distribution. It is
  provided in the non-free archive area as a convenience to Debian users.
