@@ -2,6 +2,8 @@ Source: r8125
 Section: non-free/kernel
 Priority: optional
 Maintainer: Hideki Yamane <henrich@debian.org>
+Uploaders:
+ Andreas Beckmann <anbe@debian.org>,
 Build-Depends:
  debhelper-compat (= 13),
  dh-sequence-dkms,
