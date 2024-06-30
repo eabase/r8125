@@ -2,6 +2,7 @@ r8125 (9.013.02-1) UNRELEASED; urgency=medium
 
   * New upstream release 9.013.02.  (Closes: #1071559)
   * Update Homepage and watch file.
+  * Backport support for Linux 6.9 from r8168.
 
  -- Andreas Beckmann <anbe@debian.org>  Sun, 30 Jun 2024 04:10:11 +0200
 
